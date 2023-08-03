@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/web/staff/bInfo.jsp</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/src/java/tags/LoginTagHandler.java</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/src/java/controller/LoginServlet.java</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/src/java/controller/BorrowServlet.java</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/web/includes/column_left_admin.jsp</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/web/listBook.jsp</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/src/java/model/User.java</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/web/includes/column_left.jsp</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/src/java/controller/BookSearchServlet.java</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/web/reader/borrow.jsp</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/web/search.jsp</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/web/reader/reader.jsp</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/web/staff/bookConfirm.jsp</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/web/includes/header.jsp</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/web/staff/staff.jsp</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/src/java/controller/FileUploadServlet.java</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/web/styles/main.css</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/web/WEB-INF/web.xml</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/src/java/controller/AuthenticationFilter.java</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/src/java/model/LogDB.java</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/web/includes/column_left_home.jsp</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/web/staff/showImage.jsp</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/web/reader/bInfo.jsp</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/src/java/controller/NewBookServlet.java</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/web/login.jsp</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/web/staff/upload.jsp</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/src/java/controller/ListDummy.java</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/web/reader/viewlog.jsp</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/web/staff/addBook.jsp</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/src/java/controller/ListBookServlet.java</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/web/WEB-INF/tlds/mytag_library.tld</file>
+            <file>file:/G:/FU/Course/DemoSP23/LibraryManagement/web/logout.jsp</file>
+        </group>
+    </open-files>
+</project-private>

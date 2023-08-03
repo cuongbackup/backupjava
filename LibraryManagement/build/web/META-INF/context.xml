@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/lib">
+<Resource auth="Container" 
+            driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" 
+            name="jdbc/mydb" 
+            password="abcd" 
+            type="javax.sql.DataSource" 
+            url="jdbc:sqlserver://Lanhnv\LanhNV;databaseName=Library;" 
+            username="student"/>
+</Context>

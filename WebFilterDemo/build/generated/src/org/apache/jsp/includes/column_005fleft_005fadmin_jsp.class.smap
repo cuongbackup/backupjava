@@ -1,0 +1,14 @@
+SMAP
+column_005fleft_005fadmin_jsp.java
+JSP
+*S JSP
+*F
++ 0 column_left_admin.jsp
+includes/column_left_admin.jsp
+*L
+1,5:54
+5:87,5
+5,2:61
+6:105,5
+6,4:65
+*E

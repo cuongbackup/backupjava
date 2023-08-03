@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
+    <servlet>
+        <servlet-name>a</servlet-name>
+        <servlet-class>a</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>DetailsController</servlet-name>
+        <servlet-class>com.controller.DetailsController</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>HomeController</servlet-name>
+        <servlet-class>com.controller.HomeController</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>InfoController</servlet-name>
+        <servlet-class>com.controller.InfoController</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>a</servlet-name>
+        <url-pattern>/a</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>DetailsController</servlet-name>
+        <url-pattern>/DetailsController</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>HomeController</servlet-name>
+        <url-pattern>/HomeController</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>InfoController</servlet-name>
+        <url-pattern>/InfoController</url-pattern>
+    </servlet-mapping>
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+    <error-page>
+        <error-code>404</error-code>
+        <location>/error.jsp</location>
+    </error-page>
+</web-app>

@@ -1,0 +1,6 @@
+"1", "Nguyen Van", "Hoang", 2000, "Quang Nam", "0963035714", "hoangnguyen@gmail.com", 5, "code", 0
+"2", "Phan Van", "Truong", 2001, "Da Nang", "0984481349", "phantruong@gmail.com", "2021", "good", "Da Nang Uni", 1
+"3", "Nguyen Hoa", "Hai", 2002, "Ha Noi", "0986246813", "abc@gmail.com", "PRO211", "Fall", "FPT University", 2
+"4", "Nguyen Thi", "Hoang", 2003, "Quang Nam", "0963074214", "abc@gmail.com", 8, "code", 0
+"5", "Phan Tran", "Long", 2004, "Da Nang", "0984621349", "edf@gmail.com", "2020", "good", "Multi Uni", 1
+"6", "Nguyen Van", "Truong", 2003, "Ha Noi", "0985216813", "super@gmail.com", "PRO211", "Fall", "FPT University", 2
